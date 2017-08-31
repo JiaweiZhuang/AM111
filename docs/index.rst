@@ -1,15 +1,43 @@
-.. AM111 documentation master file, created by
-   sphinx-quickstart on Wed Aug 30 23:44:52 2017.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
 Harvard AM111 2017 Fall
 =======================
 
-Supplemental material for AM111 Introduction to Scientific Computing. 
+| **Course Name**: Applied Math 111, Introduction to Scientific Computing
+| **Lecture Time**: Fall 2017, Tues/Thurs 13:00-14:30
+| **Session Time**: TBD
+| **Location**: 375 Geological Museum (3rd floor)
+| **Instructor**: Prof. Robin Wordsworth (rwordsworth@seas.harvard.edu), 426 Geological Museum 
+| **Teaching Fellow**: Jiawei Zhuang (jiaweizhuang@g.harvard.edu), Pierce Hall 108
+| **Course Website**: https://canvas.harvard.edu/courses/31741
+|    
+
+This website contains supplemental materials made by the TF, Jiawei Zhuang. 
+These materials are **not required** for completing this course, 
+but just provide additional information I find useful. Might also use them for the session.
+Your grade will **not be affected** if you choose to ignore this website.
+
+
+MATLAB in Jupyter Notebooks
+---------------------------
+
+This course is taught in MATLAB. One thing you could try is to run MATLAB codes in `Jupyter Notebooks`_.
+Jupyter Notebook is a must-learn tool for data scientists, and it is also becoming popular in the traditional
+scientific computing community. 
+It is a a great tool for interactive computing and 
+allows you to combine codes, simulation results, and descriptions such as latex equations in a single file. 
+
+See how to install and use it at:
 
 .. toctree::
    :maxdepth: 1
 
-   testpage
-   jmatlab.ipynb
+   jmatlab_install.ipynb
+   jmatlab_use.ipynb
+
+Some basic understanding of Linux command line and Python will be useful for installation. 
+If you are just new to programming, you should simply use MATLAB's original, basic user interface
+and come back to this tutorial later when you are interested.
+
+If you feel good about this tool, you can choose to submit notebooks for your homework, 
+Again, **your grade will not be affected by the file format of your homework** 
+
+.. _Jupyter Notebooks: http://jupyter.org 
