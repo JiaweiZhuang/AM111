@@ -11,4 +11,5 @@ Supplemental material for AM111 Introduction to Scientific Computing.
 .. toctree::
    :maxdepth: 1
 
-   testpage 
+   testpage
+   jmatlab.ipynb
