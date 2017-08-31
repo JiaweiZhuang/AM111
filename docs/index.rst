@@ -22,7 +22,7 @@ MATLAB in Jupyter Notebooks
 This course is taught in MATLAB. One thing you could try is to run MATLAB codes in `Jupyter Notebooks`_.
 Jupyter Notebook is a must-learn tool for data scientists, and it is also becoming popular in the traditional
 scientific computing community. 
-It is a a great tool for interactive computing and 
+It is a great tool for interactive computing and 
 allows you to combine codes, simulation results, and descriptions such as latex equations in a single file. 
 
 See how to install and use it at:
