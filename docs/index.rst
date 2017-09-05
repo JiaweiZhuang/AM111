@@ -16,10 +16,17 @@ Your grade will **not be affected** if you choose to ignore this website.
 
 Lecture Notes
 -------------
+
+Forget the coding exercises in the class? The following notes might help.
+
 .. toctree::
    :maxdepth: 1
 
    lecture2_logics_fib.ipynb
+
+These notes combine codes and results together. You can just copy the codes to your MATLAB console or script.
+
+If you wonder how I wrote codes in this format and want to try it yourself, see the section below.
 
 MATLAB in Jupyter Notebooks
 ---------------------------
@@ -39,8 +46,8 @@ See how to install and use it at:
    jmatlab_use.ipynb
 
 Some basic understanding of Linux command line and Python will be useful for installation. 
-If you are just new to programming, you should simply use MATLAB's original, basic user interface
-and come back to this tutorial later when you are interested.
+**If you are just new to programming, you should simply use MATLAB's original, basic user interface
+and come back to this tutorial later when you are interested.**
 
 If you feel good about this tool, you can choose to submit notebooks for your homework, 
 Again, **your grade will not be affected by the file format of your homework** 
