@@ -19,7 +19,7 @@ Lecture Notes
 .. toctree::
    :maxdepth: 1
 
-   lecture2_logics.ipynb
+   lecture2_logics_fib.ipynb
 
 MATLAB in Jupyter Notebooks
 ---------------------------
