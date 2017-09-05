@@ -7,7 +7,6 @@ Harvard AM111 2017 Fall
 | **Location**: 375 Geological Museum (3rd floor)
 | **Instructor**: Prof. Robin Wordsworth (rwordsworth@seas.harvard.edu), 426 Geological Museum 
 | **Teaching Fellow**: Jiawei Zhuang (jiaweizhuang@g.harvard.edu), Pierce Hall 108
-| **Course Website**: https://canvas.harvard.edu/courses/31741
 |    
 
 This website contains supplemental materials made by the TF, Jiawei Zhuang. 
