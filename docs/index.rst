@@ -14,6 +14,12 @@ These materials are **not required** for completing this course,
 but just provide additional information I find useful. Might also use them for the session.
 Your grade will **not be affected** if you choose to ignore this website.
 
+Lecture Notes
+-------------
+.. toctree::
+   :maxdepth: 1
+
+   lecture2_logics.ipynb
 
 MATLAB in Jupyter Notebooks
 ---------------------------
