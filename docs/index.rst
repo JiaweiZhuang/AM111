@@ -2,11 +2,17 @@ Harvard AM111 2017 Fall
 =======================
 
 | **Course Name**: Applied Math 111, Introduction to Scientific Computing
-| **Lecture Time**: Fall 2017, Tues/Thurs 13:00-14:30
-| **Session Time**: TBD
-| **Location**: 375 Geological Museum (3rd floor)
+|
 | **Instructor**: Prof. Robin Wordsworth (rwordsworth@seas.harvard.edu), 426 Geological Museum 
 | **Teaching Fellow**: Jiawei Zhuang (jiaweizhuang@g.harvard.edu), Pierce Hall 108
+|
+| **Lecture Time**: Tues/Thurs 13:00-14:30
+| **Lecture Location**: 375 Geological Museum (3rd floor)
+|
+| **Session Time**: Every Monday 17:00-18:00
+| **Session Location**: GeoMuseum 103A (likely to change for the second session at 9/18) 
+|
+| **TF's Office Hour**: Every Tuesday 15:00-16:00, Pierce Hall 108
 |    
 
 This website contains supplemental materials made by the TF, Jiawei Zhuang. 
@@ -50,6 +56,6 @@ Some basic understanding of Linux command line and Python will be useful for ins
 and come back to this tutorial later when you are interested.**
 
 If you feel good about this tool, you can choose to submit notebooks for your homework, 
-Again, **your grade will not be affected by the file format of your homework** 
+Again, **your grade will not be affected by the file format of your homework**.
 
 .. _Jupyter Notebooks: http://jupyter.org 
