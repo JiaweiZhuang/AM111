@@ -20,8 +20,8 @@ These materials are **not required** for completing this course,
 but just provide additional information I find useful. Might also use them for the session.
 Your grade will **not be affected** if you choose to ignore this website.
 
-Lecture Notes
--------------
+Lecture & Session Notes
+-----------------------
 
 Forget the coding exercises in the class? The following notes might help.
 
@@ -29,6 +29,7 @@ Forget the coding exercises in the class? The following notes might help.
    :maxdepth: 1
 
    lecture2_logics_fib.ipynb
+   session1_functions.ipynb
 
 These notes combine codes and results together. You can just copy the codes to your MATLAB console or script.
 
