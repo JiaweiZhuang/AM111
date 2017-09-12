@@ -10,7 +10,7 @@ Harvard AM111 2017 Fall
 | **Lecture Location**: 375 Geological Museum (3rd floor)
 |
 | **Session Time**: Every Monday 17:00-18:00
-| **Session Location**: GeoMuseum 103A (likely to change for the second session at 9/18) 
+| **Session Location**: GeoMuseum 103A
 |
 | **TF's Office Hour**: Every Tuesday 15:00-16:00, Pierce Hall 108
 |    
