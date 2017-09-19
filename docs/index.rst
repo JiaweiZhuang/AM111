@@ -41,6 +41,7 @@ Forget the coding exercises in the class? The following notes might help.
    lecture2_logics_fib.ipynb
    lecture4_float.ipynb
    lecture5_complex.ipynb
+   lecture6_matrix.ipynb
    session1_functions.ipynb
    session2_vectorization.ipynb
 
