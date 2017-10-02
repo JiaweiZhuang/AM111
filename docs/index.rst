@@ -46,6 +46,7 @@ Forget the coding exercises in the class? The following notes might help.
    session1_functions.ipynb
    session2_vectorization.ipynb
    session3_LU_markov.ipynb
+   session4_linux.ipynb
 
 These notes combine codes and results together. You can just copy the codes to your MATLAB console or script.
 
