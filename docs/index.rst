@@ -43,6 +43,7 @@ Forget the coding exercises in the class? The following notes might help.
    lecture5_complex.ipynb
    lecture6_matrix.ipynb
    lecture8_interpolation.ipynb
+   lecture11_Odyssey.ipynb
    session1_functions.ipynb
    session2_vectorization.ipynb
    session3_LU_markov.ipynb
