@@ -52,6 +52,7 @@ Forget the coding exercises in the class? The following notes might help.
    session6_differentiation.ipynb
    session7_convergence.ipynb
    session8_stabiilty.ipynb
+   session9_PDE.ipynb
 
 These notes combine codes and results together. You can just copy the codes to your MATLAB console or script.
 
